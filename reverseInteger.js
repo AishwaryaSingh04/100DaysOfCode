@@ -22,3 +22,6 @@ var reverse = function (x) {
 
     return reversedNumber;
 };
+
+
+//key point was to be careful of the negative number and the limit calculation
